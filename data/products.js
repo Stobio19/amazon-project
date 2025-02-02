@@ -125,7 +125,7 @@ export function loadProducts(fun) {
 
     console.log("load products");
     
-    // fun();
+    fun();
   });
 
 
@@ -138,7 +138,7 @@ export function loadProducts(fun) {
   xhr.send();
 }
 
-loadProducts();
+
 
 /*
 export const products = [
