@@ -1,5 +1,4 @@
 # 🚀 Amazon Project - JavaScript Tutorial
-## This is the original link from the course that I took. --> https://www.youtube.com/watch?v=EerdGm-ehJQ&t=72632s 
 
 ## **English**
 
@@ -20,3 +19,5 @@ Este proyecto fue desarrollado como parte del *JavaScript Tutorial Full Course -
 - Saving the data with JavaScript
 - Dynamic interaction
 - Improved user experience
+
+# This is the original link from the course that I took. --> https://www.youtube.com/watch?v=EerdGm-ehJQ&t=72632s 
